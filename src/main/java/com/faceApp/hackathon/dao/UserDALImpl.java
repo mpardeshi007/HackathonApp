@@ -1,4 +1,4 @@
-package com.journaldev.bootifulmongodb.dal;
+package com.faceApp.hackathon.dao;
 
 import java.util.List;
 
@@ -8,7 +8,7 @@ import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.stereotype.Repository;
 
-import com.journaldev.bootifulmongodb.model.User;
+import com.faceApp.hackathon.model.User;
 
 @Repository
 public class UserDALImpl implements UserDAL {

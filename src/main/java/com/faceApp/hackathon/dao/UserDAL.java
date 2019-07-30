@@ -1,8 +1,8 @@
-package com.journaldev.bootifulmongodb.dal;
+package com.faceApp.hackathon.dao;
 
 import java.util.List;
 
-import com.journaldev.bootifulmongodb.model.User;
+import com.faceApp.hackathon.model.User;
 
 public interface UserDAL {
 

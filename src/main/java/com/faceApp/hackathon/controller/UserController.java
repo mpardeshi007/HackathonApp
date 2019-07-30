@@ -1,4 +1,4 @@
-package com.journaldev.bootifulmongodb.controller;
+package com.faceApp.hackathon.controller;
 
 import java.util.List;
 
@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.journaldev.bootifulmongodb.dal.UserDAL;
-import com.journaldev.bootifulmongodb.dal.UserRepository;
-import com.journaldev.bootifulmongodb.model.User;
+import com.faceApp.hackathon.dao.UserDAL;
+import com.faceApp.hackathon.dao.UserRepository;
+import com.faceApp.hackathon.model.User;
 
 @RestController
 @RequestMapping(value = "/")

@@ -1,4 +1,4 @@
-package com.journaldev.bootifulmongodb.model;
+package com.faceApp.hackathon.model;
 
 import java.util.Date;
 import java.util.HashMap;

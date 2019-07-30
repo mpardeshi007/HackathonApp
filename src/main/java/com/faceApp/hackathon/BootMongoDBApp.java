@@ -1,4 +1,4 @@
-package com.journaldev.bootifulmongodb;
+package com.faceApp.hackathon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
